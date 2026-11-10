@@ -3,10 +3,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
-  <img alt="Amaltash: finance calculators for your AI chat. Ask a money question. Get the math and a chart you can change." src="banner-light.svg" width="100%">
+  <img alt="Amaltash: investment calculator, retirement calculator and AI investing. Free calculators in your AI chat. AI investing in plain English." src="banner-light.svg" width="100%">
 </picture>
 
-# Amaltash: finance calculators for your AI chat
+# Amaltash: investment calculator, retirement calculator and AI investing
 
 Ask a money question. Get the math and a chart you can change. Plus AI investing strategies in plain English.
 
