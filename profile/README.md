@@ -95,6 +95,7 @@ Learn more at [amaltash.com](https://amaltash.com).
 - Plugins: [amaltash-hq/mcp](https://github.com/amaltash-hq/mcp)
 - MCP Registry: [com.amaltash/calculators](https://registry.modelcontextprotocol.io/v0/servers?search=com.amaltash/calculators)
 - Docs: [amaltash.com/mcp/calculators](https://amaltash.com/mcp/calculators)
+- Developer site: [amaltash-hq.github.io](https://amaltash-hq.github.io)
 
 Install in Claude Code:
 
