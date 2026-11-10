@@ -2,7 +2,7 @@
 
 Free finance calculators for your AI chat, with charts you can change. Plus AI investing in plain English: turn your idea into rules you can read.
 
-[Website](https://amaltash.com) · [Calculator docs](https://amaltash.com/mcp/calculators) · [Trading docs](https://amaltash.com/mcp) · [Plugins](https://github.com/amaltash-hq/amaltash-mcp-plugin) · [Privacy](https://amaltash.com/policies/privacy#calculators-connector) · [Contact](https://amaltash.com/contact)
+[Website](https://amaltash.com) · [Calculator docs](https://amaltash.com/mcp/calculators) · [Trading docs](https://amaltash.com/mcp) · [Plugins](https://github.com/amaltash-hq/mcp) · [Privacy](https://amaltash.com/policies/privacy#calculators-connector) · [Contact](https://amaltash.com/contact)
 
 ## Free finance calculators for AI chat
 
@@ -20,7 +20,7 @@ Ask a money question in your AI chat. Get the math and a chart you can change. N
 Every result says how it was worked out and what it assumes.
 
 - Docs and examples: https://amaltash.com/mcp/calculators
-- Plugins: https://github.com/amaltash-hq/amaltash-mcp-plugin
+- Plugins: https://github.com/amaltash-hq/mcp
 - MCP server, no sign-in: `https://tools.amaltash.com/mcp`
 
 ## AI trading strategies
@@ -39,7 +39,7 @@ Learn more at https://amaltash.com
 ## Install in Claude Code
 
 ```
-/plugin marketplace add amaltash-hq/amaltash-mcp-plugin
+/plugin marketplace add amaltash-hq/mcp
 /plugin install calculators@amaltash
 /plugin install trading@amaltash
 ```
