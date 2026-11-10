@@ -15,6 +15,11 @@ Ask a money question. Get the math and a chart you can change. Plus AI investing
 [![12,000+ US stocks and funds](https://img.shields.io/badge/US%20stocks%20and%20funds-12%2C000%2B-047857)](https://amaltash.com/mcp/calculators#data-heading)
 [![No sign-in](https://img.shields.io/badge/sign--in-not%20needed-047857)](https://amaltash.com/mcp/calculators)
 
+<!-- Demo video, AMA-10800 (2026-11-10). -->
+[![Watch the demo: Amaltash calculators in an AI chat (1:25)](demo-still.png)](https://youtu.be/_vZFEhk1ZRY)
+
+**[Watch the demo on YouTube](https://youtu.be/_vZFEhk1ZRY)** (1:25)
+
 ## Get Amaltash
 
 | Where | Link |
