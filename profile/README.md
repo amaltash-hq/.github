@@ -4,6 +4,25 @@ Free finance calculators for your AI chat, with charts you can change. Plus AI i
 
 [Website](https://amaltash.com) · [Calculator docs](https://amaltash.com/mcp/calculators) · [Trading docs](https://amaltash.com/mcp) · [Plugins](https://github.com/amaltash-hq/mcp) · [Privacy](https://amaltash.com/policies/privacy#calculators-connector) · [Contact](https://amaltash.com/contact)
 
+## Get Amaltash
+
+| Where | Link |
+| --- | --- |
+| Website | [amaltash.com](https://amaltash.com) |
+| Web app | [trade.amaltash.com](https://trade.amaltash.com) |
+| iPhone and iPad | [App Store](https://apps.apple.com/app/id6785155640) |
+| Android | [Google Play](https://play.google.com/store/apps/details?id=com.amaltash.trade) |
+| Calculators on the web | [amaltash.com/calculators](https://amaltash.com/calculators) |
+| Calculators in AI chat | [Docs and examples](https://amaltash.com/mcp/calculators) |
+| Claude Code plugins | [amaltash-hq/mcp](https://github.com/amaltash-hq/mcp) |
+
+### Calculators on amaltash.com
+
+- [Investment calculator](https://amaltash.com/investment-calculator)
+- [CD calculator](https://amaltash.com/cd-calculator)
+- [High-yield savings calculator](https://amaltash.com/high-yield-savings-calculator)
+- [All calculators](https://amaltash.com/calculators)
+
 ## Free finance calculators for AI chat
 
 Ask a money question in your AI chat. Get the math and a chart you can change. No account needed.
