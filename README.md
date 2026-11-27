@@ -11,7 +11,7 @@
 Ask a money question. Get the math and a chart you can change. Plus AI investing strategies in plain English.
 
 [![MCP Registry: com.amaltash/calculators](https://img.shields.io/badge/MCP%20Registry-com.amaltash%2Fcalculators-047857)](https://registry.modelcontextprotocol.io/v0/servers?search=com.amaltash/calculators)
-[![13 calculators](https://img.shields.io/badge/calculators-13-047857)](https://amaltash.com/mcp/calculators)
+[![40+ calculators](https://img.shields.io/badge/calculators-40%2B-047857)](https://amaltash.com/mcp/calculators)
 [![12,000+ US stocks and funds](https://img.shields.io/badge/US%20stocks%20and%20funds-12%2C000%2B-047857)](https://amaltash.com/mcp/calculators#data-heading)
 [![No sign-in](https://img.shields.io/badge/sign--in-not%20needed-047857)](https://amaltash.com/mcp/calculators)
 
